@@ -1,4 +1,4 @@
-<h1 align="center">
+KO<h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"/> 
   Hey there, I'm <a href="https://github.com/Xtrios09">Abhijeet Prabhakar</a> (aka Xtrios09)
 </h1>
@@ -112,7 +112,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" width="80%" alt="fun gif"/>
+  <img src="https://media1.tenor.com/m/YwSmqv2CZr8AAAAd/dog-mechanic.gif" width="80%" alt="fun gif"/>
 </div>
 
 <h3 align="center">✨ “Build tools that make your own life easier — others will find them useful too.” ✨</h3>
