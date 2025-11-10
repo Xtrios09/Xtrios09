@@ -111,8 +111,4 @@ KO<h1 align="center">
 
 ---
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/rI2aArXEvNoAAAAC/work-harder-working.gif"/>
-</div>
-
 <h3 align="center">✨ “Build tools that make your own life easier — others will find them useful too.” ✨</h3>
