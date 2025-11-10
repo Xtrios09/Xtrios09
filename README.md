@@ -13,7 +13,7 @@
 ### 🚀 *Coding like it’s 2050 — automating like it’s 3025.*
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="90%" alt="Coding Animation">
+  <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAC/cat-busy.gif" alt="GitHub Followers"/>
 </div>
 
 <ul>
