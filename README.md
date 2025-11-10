@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xtrios09&color=blueviolet" alt="Profile views"/>
 </div>
-div align="center">
+<div align="center">
   <img src="https://img.shields.io/github/followers/Xtrios09?label=Followers&style=social" alt="GitHub Followers"/>
 </div>
 
