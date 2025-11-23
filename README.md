@@ -25,6 +25,7 @@
   <li>💡 Exploring <strong>TypeScript, Node.js, and full-stack development</strong>.</li>
   <li>🧩 Big fan of <strong>Linux customization</strong> and <strong>system scripting</strong>.</li>
   <li>🌍 Based in <strong>India</strong>.</li>
+  <li>💻Like contributing to open source.</li>
 </ul>
 
 ---
@@ -57,7 +58,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=flat&logo=coffeescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ---
 
 ## ⚡ Featured Projects
@@ -67,8 +68,12 @@
 | [🧭 **Flocus-V2**](https://github.com/Xtrios09/Flocus-V2) | A focus-timer web app that helps you balance work and rest. | React, TypeScript, Tailwind |
 | [🔒 **ZappierV2**](https://github.com/Xtrios09/ZappierV2) | Peer-to-peer chat app with no servers or tracking. | Node.js, WebRTC, Next.js |
 | [🧩 **TaskFlowStudio**](https://github.com/Xtrios09/TaskFlowStudio) | Visual workflow automation designer. | React, DnD Kit, Zustand |
+| [🐧 **CodioV2**](https://github.com/Xtrios09/CodioV2) |A modern code execution and interactive development platform with enhanced features and UI | Javascript, Typescript, tailwindcss, HTML |
+| [🪶 **Atom-V2**](https://github.com/Xtrios09/atom-v2) | Continuing the legacy of my favourite open source code editor by updating its codebase | CoffeeJS, Typescript, electron |
+| [🪶 **ViMusic-V2**](https://github.com/Xtrios09/ViMusic-V2) | An Android application for streaming music from YouTube Music, continuing to update the codebase of this repository as a contribution to open source. | Kotlin, Android|
 | [🐧 **Arch Maintenance Script**](https://github.com/Xtrios09/arch-maintenance-script) | Automates Arch Linux updates & cleanup. | Bash, Linux |
 | [🪶 **Disable Copilot**](https://github.com/Xtrios09/Disable-Copilot) | Simple script to remove Windows distractions. | Batch, PowerShell |
+| [🪶 **Google Calendar Desktop**](https://github.com/Xtrios09/Google-Calendar-Desktop) | A desktop version of google calendar made with electron. | Javascript, Electron |
 
 ---
 
